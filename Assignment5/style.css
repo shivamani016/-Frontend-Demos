@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+}
+/* Cities page box */
+.city-box {
+    width: 300px;
+    margin: 100px auto;
+    background:blue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.city-box a {
+    color: white;
+    text-decoration: none;
+}
+/* City pages */
+.city-page {
+    width: 80%;
+    margin: 30px auto;
+    background: blue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+}
+
+/* Cities page box */
+.city-box {
+    width: 300px;
+    margin: 100px auto;
+    background: #3f72c8;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.city-box a {
+    color: white;
+    text-decoration: none;
+}
+
+.city-box a:hover {
+    text-decoration: underline;
+}
+
+/* City pages */
+.city-page {
+    width: 70%;
+    margin: 30px auto;
+    background: #3f72c8;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.images img {
+    width: 30%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
